@@ -1,0 +1,6 @@
+init_exit_1
+init_exit_2
+init_exit_3
+init_exit_4
+init_exit_5
+init_exit_6
